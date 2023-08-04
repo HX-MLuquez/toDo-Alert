@@ -1,0 +1,31 @@
+.task-login {
+  background-color: #f17a7a;
+  padding: 40px;
+
+  margin-left: 120px;
+  border-radius: 4px;
+  height: 40%;
+}
+
+.task-login h2 {
+  color: #ffffff;
+}
+
+.task-login form {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-login input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.task-login button {
+  padding: 8px;
+  background-color: #646cff;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}

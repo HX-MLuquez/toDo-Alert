@@ -1,0 +1,11 @@
+.app_container {
+  display: flex;
+  height: 100vh;
+  padding: 40px;
+  margin: 40px;
+}
+
+.main_content {
+  padding: 20px;
+  flex: 1;
+}

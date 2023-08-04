@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  height: 100vh;
+  margin: 8px;
+  padding: 8px;
+  width: 100%;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

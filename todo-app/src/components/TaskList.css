@@ -1,0 +1,31 @@
+.task-list {
+  background-color: #ead2d2;
+  padding: 20px;
+  margin-left: 120px;
+}
+
+.task-list h2 {
+  color: #ffffff;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.task-item input {
+  margin-right: 10px;
+}
+
+.task-item button {
+  margin-left: 10px;
+  padding: 5px 8px;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+}
+.task-item span {
+  margin: 8px;
+  padding: 4px;
+}

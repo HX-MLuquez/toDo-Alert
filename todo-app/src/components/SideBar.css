@@ -1,0 +1,11 @@
+.sidebar {
+  background-color: #8e8888;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3px;
+}
+
+.sidebar-button {
+  margin-top: 40px;
+}
